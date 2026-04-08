@@ -72,6 +72,7 @@ Copy the skill folder into your `.claude/skills/` directory. Claude will automat
 | Skill | Based On | What It Does |
 |-------|----------|--------------|
 | [DFI Severity Classifier](skills/dfi-severity-classifier/) | IWGDF/IDSA 2023 | Classifies diabetic foot infection severity (Grade 1-4 + osteomyelitis), recommends management |
+| [DFI Empiric Antibiotic Selector](skills/dfi-antibiotic-selector/) | IWGDF/IDSA 2023 | Selects first-line antibiotic regimen by grade and MRSA risk, with route and duration |
 
 *More skills coming soon — contributions welcome.*
 
