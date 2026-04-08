@@ -69,6 +69,16 @@ Each skill has two files:
 
 ---
 
+### 🫃 Gastroenterology
+
+**Pre-Procedure Management** — AGA 2024
+
+| Skill | What it does |
+|---|---|
+| [GLP-1 RA Pre-Endoscopy Decision Tool](skills/gastroenterology/glp1-endoscopy-pre-procedure/) | Proceed / postpone / modify for patients on semaglutide, tirzepatide, liraglutide before endoscopy |
+
+---
+
 ### 🫀 Cardiology · 🫘 Nephrology · 🫁 Respiratory
 > Coming soon — contributions welcome
 
@@ -87,9 +97,11 @@ MD2SKILL/
     │   └── diabetic-foot/
     │       ├── dfi-severity-classifier/
     │       └── dfi-antibiotic-selector/
-    └── endocrinology/
-        └── preventive-care/
-            └── diabetes-vaccination-checker/
+    ├── endocrinology/
+    │   └── preventive-care/
+    │       └── diabetes-vaccination-checker/
+    └── gastroenterology/
+        └── glp1-endoscopy-pre-procedure/
 ```
 
 Each skill folder:
