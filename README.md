@@ -76,6 +76,7 @@ Each skill has two files:
 | [Surgical Eligibility Screener](skills/endocrinology/pediatric-obesity/pediatric-obesity-surgical-screener/) | Bariatric surgery eligibility checklist for children aged ≥13 (LSG or RYGB) |
 | [Non-Stigmatising Consultation](skills/endocrinology/pediatric-obesity/pediatric-obesity-consultation/) | 5As + 4Ms framework for conducting a pediatric obesity visit |
 | [Atypical Etiology Screener](skills/endocrinology/pediatric-obesity/pediatric-obesity-etiology-screener/) | Red flag screen for monogenic, syndromic, or secondary endocrine causes (Prader-Willi, Cushing, ROHHAD, leptin deficiency, etc.) |
+| [Monogenic Obesity Diagnosis](skills/endocrinology/pediatric-obesity/monogenic-obesity-diagnosis/) | Step-by-step leptin-melanocortin pathway algorithm — syndromic (PWS, BBS, AHO) vs. monogenic (LEP, LEPR, POMC, MC4R) with pharmacotherapy mapping |
 
 ---
 
@@ -90,6 +91,7 @@ Each skill has two files:
 | [Surgical Eligibility Screener](skills/pediatric-endocrinology/pediatric-obesity/pediatric-obesity-surgical-screener/) | Bariatric surgery eligibility checklist for children aged ≥13 (LSG or RYGB) |
 | [Non-Stigmatising Consultation](skills/pediatric-endocrinology/pediatric-obesity/pediatric-obesity-consultation/) | 5As + 4Ms framework for conducting a pediatric obesity visit |
 | [Atypical Etiology Screener](skills/pediatric-endocrinology/pediatric-obesity/pediatric-obesity-etiology-screener/) | Red flag screen for monogenic, syndromic, or secondary endocrine causes (Prader-Willi, Cushing, ROHHAD, leptin deficiency, etc.) |
+| [Monogenic Obesity Diagnosis](skills/pediatric-endocrinology/pediatric-obesity/monogenic-obesity-diagnosis/) | Step-by-step leptin-melanocortin pathway algorithm — syndromic (PWS, BBS, AHO) vs. monogenic (LEP, LEPR, POMC, MC4R) with pharmacotherapy mapping |
 
 ---
 
@@ -114,6 +116,17 @@ Each skill has two files:
 | [Surgical Eligibility Screener](skills/pediatric-medicine/pediatric-obesity-surgical-screener/) | Full checklist for bariatric surgery eligibility in children aged ≥13 (LSG or RYGB) |
 | [Non-Stigmatising Consultation](skills/pediatric-medicine/pediatric-obesity-consultation/) | Step-by-step 5As + 4Ms framework for conducting a pediatric obesity visit |
 | [Atypical Etiology Screener](skills/pediatric-medicine/pediatric-obesity-etiology-screener/) | Red flag screen for monogenic, syndromic, or secondary endocrine causes (Prader-Willi, Cushing, ROHHAD, leptin deficiency, etc.) |
+| [Monogenic Obesity Diagnosis](skills/pediatric-medicine/monogenic-obesity-diagnosis/) | Step-by-step leptin-melanocortin pathway algorithm — syndromic (PWS, BBS, AHO) vs. monogenic (LEP, LEPR, POMC, MC4R) with pharmacotherapy mapping |
+
+---
+
+### 🧬 Genetics & Genomics
+
+**NHS Genomic Test Directory** — NHS England v9.0, April 2026
+
+| Skill | What it does |
+|---|---|
+| [NHS Genomic Test Finder](skills/genetics/nhs-genomic-test-finder/) | Look up R-codes, gene panels, test methods and commissioning categories across 457 rare disease indications |
 
 ---
 
@@ -145,12 +158,19 @@ MD2SKILL/
     │   ├── pediatric-obesity-pharmacotherapy-selector/
     │   ├── pediatric-obesity-surgical-screener/
     │   └── pediatric-obesity-consultation/
-    └── pediatric-endocrinology/
-        └── pediatric-obesity/
-            ├── pediatric-obesity-intervention-selector/
-            ├── pediatric-obesity-pharmacotherapy-selector/
-            ├── pediatric-obesity-surgical-screener/
-            └── pediatric-obesity-consultation/
+    ├── pediatric-endocrinology/
+    │   └── pediatric-obesity/
+    │       ├── pediatric-obesity-intervention-selector/
+    │       ├── pediatric-obesity-pharmacotherapy-selector/
+    │       ├── pediatric-obesity-surgical-screener/
+    │       ├── pediatric-obesity-consultation/
+    │       ├── pediatric-obesity-etiology-screener/
+    │       └── monogenic-obesity-diagnosis/
+    └── genetics/
+        └── nhs-genomic-test-finder/
+            ├── SKILL.md
+            └── references/
+                └── genomic-test-directory.csv
 ```
 
 Each skill folder:

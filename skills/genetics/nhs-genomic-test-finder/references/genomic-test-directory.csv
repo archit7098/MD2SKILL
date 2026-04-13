@@ -1,0 +1,466 @@
+indication_id,test_id,clinical_indication,target_genes,test_method,commissioning_category,specialist_group,eligibility_section,changes_since_last_version
+R14,R14.1,Acutely unwell children with a likely monogenic disorder,Trio gene agnostic or appropriate panels in singletons or duos,WGS,Core,Multi specialty,I Acutely unwell children,No change
+R133,R133.1,Arrhythmogenic right ventricular cardiomyopathy,Arrhythmogenic cardiomyopathy (134),Small panel,Specialised,Cardiology,II Cardiology,No change
+R391,R391.1,Barth syndrome,TAZ (1308),Single gene sequencing >=10 amplicons,Highly Specialised,Cardiology,II Cardiology,No change
+R128,R128.1,Brugada syndrome and cardiac sodium channel disease,Brugada syndrome (13),Small panel,Specialised,Cardiology,II Cardiology,No change
+R129,R129.1,Catecholaminergic polymorphic VT,Catecholaminergic polymorphic VT (214),Small panel,Specialised,Cardiology,II Cardiology,No change
+R137,R137.1,Congenital heart disease - microarray,Genomewide,Microarray,Core,Core,II Cardiology,No change
+R132,R132.1,Dilated and Arrhythmogenic cardiomyopathy,Dilated cardiomyopathy - teen and adult (652),WES or Medium Panel,Specialised,Cardiology,II Cardiology,No change
+R140,R140.1,Elastin-related phenotypes,ELN (1322),Single gene sequencing >=10 amplicons,Specialised,Cardiology,II Cardiology,No change
+R384,R384.1,Generalised arterial calcification in infancy,ABCC6;ENPP1 (1337),Small panel,Specialised,Cardiology,II Cardiology,No change
+R131,R131.1,Hypertrophic cardiomyopathy,Hypertrophic cardiomyopathy - teen and adult (49),WES or Medium Panel,Specialised,Cardiology,II Cardiology,No change
+R127,R127.1,Long QT syndrome,Long QT syndrome (76),Small panel,Specialised,Cardiology,II Cardiology,No change
+R454,R454.1,Mavacamten for treating symptomatic obstructive hypertrophic cardiomyopathy,CYP2C19,Targeted variant testing,Specialised,Cardiology,II Cardiology,No change
+R135,R135.2,Paediatric or syndromic cardiomyopathy,Cardiomyopathies - including childhood onset (749),WGS,Specialised,Cardiology,II Cardiology,No change
+R135,R135.3,Paediatric or syndromic cardiomyopathy,Cardiomyopathies - including childhood onset (749),WES,Specialised,Cardiology,II Cardiology,No change
+R136,R136.1,Primary lymphoedema,Primary lymphoedema (65),WES or Medium Panel,Specialised,Cardiology,II Cardiology,No change
+R328,R328.1,Progressive cardiac conduction disease,Progressive cardiac conduction disease (506),WES or Small Panel,Specialised,Cardiology,II Cardiology,No change
+R130,R130.1,Short QT syndrome,Short QT syndrome (224),Small panel,Specialised,Cardiology,II Cardiology,No change
+R138,R138.1,Sudden unexplained death or survivors of a cardiac event,Sudden cardiac death (841),WES or Medium Panel,Specialised,Cardiology,II Cardiology,No change
+R125,R125.1,Thoracic aortic aneurysm or dissection,Thoracic aortic aneurysm or dissection (700),WES or Medium Panel,Specialised,Cardiology,II Cardiology,No change
+R441,R441.1,Unexplained death in infancy and sudden unexplained death in childhood  ,Unexplained death in infancy and sudden unexplained death in childhood (1220),WGS,Specialised,Multi specialty,II Cardiology,No change
+R47,R47.1,Angelman syndrome,AS/PWS critical region (methylation & CNVs),Methylation testing,Core,Core,III Developmental disorders,Amended scope to methylation and CNVs
+R28,R28.1,Congenital malformation and dysmorphism syndromes,Genomewide,Microarray,Core,Core,III Developmental disorders,No change
+R69,R69.5,Hypotonic infant ,Hypotonic infant (490),WGS,Core,Core,III Developmental disorders,No change
+R26,R26.1,Likely common aneuploidy,Genomewide,Common aneuploidy testing,Core,Core,III Developmental disorders,No change
+R27,R27.3,Paediatric disorders ,Paediatric disorders (486),WGS,Core,Core,III Developmental disorders,No change
+R312,R312.1,Parental sequencing for lethal autosomal recessive disorders,Relevant panel(s) in PanelApp,WES or Large panel,Specialised,Other,III Developmental disorders,No change
+R48,R48.1,Prader-Willi syndrome,AS/PWS critical region (methylation & CNVs),Methylation testing,Core,Core,III Developmental disorders,Amended scope to methylation and CNVs
+R293,R293.1,"Albright hereditary osteodystrophy, pseudohypoparathyroidism, pseudopseudohypoparathyroidism, acrodysostosis and osteoma cutis",GNAS;PRKAR1A; PDE4D (1209),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R293,R293.2,"Albright hereditary osteodystrophy, pseudohypoparathyroidism, pseudopseudohypoparathyroidism, acrodysostosis and osteoma cutis",GNAS DMRs & STX16 (methylation & CNVs),Methylation testing,Specialised,Endocrinology,IV Endocrinology,Added target STX16
+R106,R106.1,Alstrom syndrome,ALMS1 (1210),Single gene sequencing >=10 amplicons,Highly Specialised,Endocrinology,IV Endocrinology,No change
+R314,R314.1,Ambiguous genitalia,Sex chromosomes,Common aneuploidy testing,Core,Core,IV Endocrinology,Amended CI name & added routine and and urgent TATs
+R314,R314.2,Ambiguous genitalia,Sex chromosomes,Karyotype,Core,Core,IV Endocrinology,Amended CI name
+R49,R49.1,Beckwith-Wiedemann syndrome,11p15 imprinted growth regulatory region  (methylation & CNVs),Methylation testing,Specialised,Endocrinology,IV Endocrinology,Amended scope to methylation and CNVs
+R49,R49.3,Beckwith-Wiedemann syndrome,CDKN1C (1309),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R319,R319.1,Calcium-sensing receptor phenotypes,CASR (1312),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R156,R156.1,Carney complex,PRKAR1A (1313),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R181,R181.1,Congenital adrenal hyperplasia carrier testing,CYP21A2,Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,Amended test method from targeted variant testing to single gene testing and PLCM rule from TVT to small panel
+R181,R181.2,Congenital adrenal hyperplasia carrier testing,CYP21A2,MLPA or equivalent,Specialised,Endocrinology,IV Endocrinology,No change
+R180,R180.1,Congenital adrenal hyperplasia diagnostic test,CYP21A2 (1317),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R180,R180.2,Congenital adrenal hyperplasia diagnostic test,CYP21A2 (1317),MLPA or equivalent,Specialised,Endocrinology,IV Endocrinology,No change
+R150,R150.1,Congenital adrenal hypoplasia,Congenital adrenal hypoplasia (145),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R144,R144.1,Congenital hyperinsulinism,ABCC8;KCNJ11,Small panel,Highly Specialised,Endocrinology,IV Endocrinology,No change
+R144,R144.2,Congenital hyperinsulinism,Congenital hyperinsulinism (308),Small panel,Highly Specialised,Endocrinology,IV Endocrinology,No change
+R145,R145.1,Congenital hypothyroidism,Congenital hypothyroidism (31),WES or Medium panel,Specialised,Endocrinology,IV Endocrinology,No change
+R146,R146.1,Differences in sex development,Genomewide,Microarray,Core,Endocrinology,IV Endocrinology,No change
+R146,R146.2,Differences in sex development,Differences in sex development (9),WES or Medium Panel,Specialised,Endocrinology,IV Endocrinology,No change
+R217,R217.1,Endocrine neoplasia,Endocrine neoplasms (648),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R329,R329.1,Familial dysalbuminaemic hyperthyroxinaemia,ALB (1333),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R151,R151.1,Familial hyperparathyroidism or Hypocalciuric hypercalcaemia,Familial hyperparathyroidism (480) ,Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R153,R153.1,Familial hypoparathyroidism,Familial hypoparathyroidism (312),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R162,R162.1,Familial tumoral calcinosis,Familial tumoral calcinosis (552),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R183,R183.1,Glucocorticoid-remediable aldosteronism (GRA),CYP11B1/CYP11B2 gene fusion,Targeted variant testing,Specialised,Endocrinology,IV Endocrinology,No change
+R142,R142.1,Glucokinase-related fasting hyperglycaemia,GCK (1338),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R440,R440.1,Hereditary isolated diabetes insipidus,AVP; AVPR2; AQP2,Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R182,R182.1,Hyperthyroidism,Hyperthyroidism (236),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R148,R148.1,Hypogonadotropic hypogonadism,Hypogonadotropic hypogonadism idiopathic (650),Medium panel,Specialised,Endocrinology,IV Endocrinology,No change
+R154,R154.1,Hypophosphataemia or rickets,Hypophosphataemia or rickets (482),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R226,R226.1,Inherited parathyroid cancer,CDC73 (1348),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R223,R223.1,Inherited phaeochromocytoma and paraganglioma excluding NF1,Inherited phaeochromocytoma and paraganglioma excluding NF1 (649),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R157,R157.1,"IPEX - Immunodysregulation Polyendocrinopathy and Enteropathy, X-Linked",FOXP3 (1350),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R50,R50.1,Isolated hemihypertrophy or macroglossia,11p15 imprinted growth regulatory region (methylation & CNVs),Methylation testing,Specialised,Endocrinology,IV Endocrinology,Amended scope to methylation and CNVs
+R268,R268.1,Kagami-Ogata syndrome - paternal uniparental disomy 14,UPD14 critical region (methylation & CNVs),Methylation testing,Specialised,Endocrinology,IV Endocrinology,No change
+R141,R141.1,Monogenic diabetes,Monogenic diabetes (472),WES or Medium Panel,Specialised,Endocrinology,IV Endocrinology,No change
+R453,R453.1,Monogenic short stature,Monogenic short statue (TBC),WES or Medium panel,Specialised,Endocrinology,IV Endocrinology,No change
+R417,R417.1,Multi Locus Imprinting Disorder (MLID),"Multi Locus imprinted genes on chromosomes: 6, 7, 11, 14, 15, 19, 20. (PLAGL1, GRB10, MEST, H19, KCNQ1, GTL2, SNRPN, PEG3, GNAS) (methylation & CNVs)",MLPA,Specialised,Endocrinology,IV Endocrinology,No change
+R417,R417.2,Multi Locus Imprinting Disorder (MLID),Multi locus imprinting disorders (1109),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R218,R218.1,Multiple endocrine neoplasia type 2,RET (1366),Single gene sequencing >=10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R143,R143.1,Neonatal diabetes,ABCC8; KCNJ11 (1369),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R143,R143.3,Neonatal diabetes,6q24,Methylation testing,Specialised,Endocrinology,IV Endocrinology,No change
+R143,R143.4,Neonatal diabetes,Neonatal diabetes (293),WGS,Specialised,Endocrinology,IV Endocrinology,No change
+R159,R159.1,Pituitary hormone deficiency,Pituitary hormone deficiency (483),WES or Medium panel,Specialised,Endocrinology,IV Endocrinology,No change
+R402,R402.1,Premature ovarian insufficiency,Genomewide,Karyotype or equivalent,Core,Core,IV Endocrinology,No change
+R402,R402.2,Premature ovarian insufficiency,FMR1 STR,STR testing,Core,Core,IV Endocrinology,No change
+R344,R344.1,Primary hyperaldosteronism - KCNJ5,KCNJ5 (1380),Single gene sequencing <10 amplicons,Specialised,Endocrinology,IV Endocrinology,No change
+R160,R160.1,Primary pigmented nodular adrenocortical disease,Primary pigmented nodular adrenocortical disease (566),Small panel,Specialised,Endocrinology,IV Endocrinology,No change
+R149,R149.1,Severe early-onset obesity,Severe early-onset obesity (130),WES or Medium panel,Specialised,Endocrinology,IV Endocrinology,No change
+R158,R158.1,Severe insulin resistance and lipodystrophy syndromes,Severe insulin resistance and lipodystrophy syndromes (546),Medium panel,Highly Specialised,Endocrinology,IV Endocrinology,Amended CI name & added genes and changed from small to medium panel
+R452,R452.1,Silver russell syndrome and Temple Syndrome,11p15 imprinted growth regulatory region and UPD7 growth regulatory critical region,Methylation testing,Specialised,Endocrinology,IV Endocrinology,No change
+R65,R65.1,Aminoglycoside exposure posing risk to hearing,MT-RNR1 1555A>G; m.1095T>C; m.1494C>T,Targeted variant testing,Core,Core,IX Audiology,No change
+R67,R67.1,Monogenic hearing loss,Hearing loss (126),WES or Large Panel,Specialised,Audiology,IX Audiology,No change
+R39,R39.1,Albinism or congenital nystagmus,Albinism or congenital nystagmus (511),WES or Medium panel,Specialised,Ophthalmology,V Ophthalmology,No change
+R107,R107.1,Bardet Biedl syndrome,Bardet Biedl syndrome (543),Small panel,Highly Specialised,Ophthalmology,V Ophthalmology,No change
+R31 ,R31.3,Bilateral congenital or childhood onset cataracts,Cataracts (230),WGS,Specialised,Ophthalmology,V Ophthalmology,No change
+R43,R43.1,Blepharophimosis ptosis and epicanthus inversus,FOXL2 (1310),Single gene sequencing <10 amplicons,Specialised,Ophthalmology,V Ophthalmology,No change
+R43,R43.2,Blepharophimosis ptosis and epicanthus inversus,FOXL2 (1310),MLPA or equivalent,Specialised,Ophthalmology,V Ophthalmology,No change
+R43,R43.3,Blepharophimosis ptosis and epicanthus inversus,FOXL2 STR (1310),STR testing,Specialised,Ophthalmology,V Ophthalmology,No change
+R46,R46.1,Congenital fibrosis of the extraocular muscles,Congenital fibrosis of the extraocular muscles (512),Small panel,Specialised,Ophthalmology,V Ophthalmology,No change
+R262,R262.1,Corneal dystrophy,Corneal dystrophies (658),WES or Medium panel,Specialised,Ophthalmology,V Ophthalmology,No change
+R41,R41.1,Optic neuropathy,Optic neuropathy (186),WES or Medium panel,Specialised,Ophthalmology,V Ophthalmology,No change
+R41,R41.3,Optic neuropathy,Three common LHON variants,Targeted variant testing,Specialised,Ophthalmology,V Ophthalmology,No change
+R33,R33.1,Possible X-linked retinitis pigmentosa,RPGR exon ORF15,Targeted variant testing,Specialised,Ophthalmology,V Ophthalmology,No change
+R420,R420.1,Pseudoxanthoma elasticum ,"ABCC6, ENPP1 (1381)",Small panel,Specialised,Ophthalmology,V Ophthalmology,No change
+R32,R32.2,Retinal disorders,Retinal disorders (307),WGS,Specialised,Ophthalmology,V Ophthalmology,No change
+R38,R38.2,Sporadic aniridia,Aniridia (510),Small panel,Specialised,Ophthalmology,V Ophthalmology,No change
+R45,R45.1,Stickler syndrome,Stickler syndrome (3),Small panel,Highly Specialised,Ophthalmology,V Ophthalmology,No change
+R36,R36.2,Structural eye disease,Structural eye disease (509),WGS,Specialised,Ophthalmology,V Ophthalmology,No change
+R21,R21.1,Fetal anomalies with a likely genetic cause,Genomewide,Common aneuploidy testing,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R21,R21.2,Fetal anomalies with a likely genetic cause,Fetal anomalies (478),Large Panel,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R21,R21.3,Fetal anomalies with a likely genetic cause,Genomewide,Microarray,Core,Prenatal,VI Fetal (including NIPD),No change
+R412,R412.1,Fetal anomalies with a likely genetic cause - non urgent,Fetal anomalies (478),WES or Large Panel,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R22,R22.1,Fetus with a likely chromosomal abnormality,Genomewide,Common aneuploidy testing,Core,Core,VI Fetal (including NIPD),No change
+R22,R22.2,Fetus with a likely chromosomal abnormality,Genomewide,Microarray,Core,Core,VI Fetal (including NIPD),No change
+R389,R389.1,NIPD - pre-pregnancy test work-up,As per familial diagnosis,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R306,R306.1,NIPD for Apert syndrome - variant testing,FGFR2,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R250,R250.1,NIPD for congenital adrenal hyperplasia - CYP21A2 haplotype testing,CYP21A2,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R307,R307.1,NIPD for Crouzon syndrome with acanthosis nigricans - variant testing,FGFR3,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R304,R304.1,NIPD for cystic fibrosis - haplotype testing,CFTR,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R305,R305.1,NIPD for cystic fibrosis - variant testing,CFTR,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R310,R310.1,NIPD for Duchenne and Becker muscular dystrophy - haplotype testing,Dystrophin,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R308,R308.1,NIPD for FGFR2-related craniosynostosis syndromes - variant testing,FGFR2,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R309,R309.1,NIPD for FGFR3-related skeletal dysplasias - variant testing,FGFR3,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R423,R423.1,NIPD for Retinoblastoma - haplotype testing,RB1,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R311,R311.1,NIPD for spinal muscular atrophy - variant testing,SMN1,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R433,R433.1,"Monogenic diabetes, subtype glucokinase - NIPT",GCK,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),Amended CI name
+R249,R249.1,NIPD using paternal exclusion testing for very rare conditions where familial variant is known,As per tested relative,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R251,R251.1,Non-invasive prenatal sexing,Other,NIPD,Specialised,Prenatal,VI Fetal (including NIPD),No change
+R318,R318.1,Recurrent miscarriage with products of conception available for testing,Genomewide,Common aneuploidy testing,Core,Core,VI Fetal (including NIPD),No change
+R318,R318.2,Recurrent miscarriage with products of conception available for testing,Genomewide,Microarray,Core,Core,VI Fetal (including NIPD),No change
+R445,R445.1,"T21, T18 and T13 aneuploidy testing - NIPT (previous history)",Genomewide,NIPT,Specialised,Prenatal,VI Fetal (including NIPD),Amended CI name and TAT from 7 days to 5 days to align with NIPT FASP testing
+R401,R401.1,Common aneuploidy testing - prenatal,Genomewide,Common aneuploidy testing,Core,Core,VI Fetal (including NIPD),No change
+R470,R470.1,"T21, T18, and T13 aneuploidy testing - NIPT NHS Fetal Anomaly Screening Programme (FASP)",Genomewide,NIPT,Specialised,Prenatal,VI Fetal (including NIPD),New CI as move NIPT testing as part of FASP pathway into mainstream commissioning.
+R169,R169.1,Acute intermittent porphyria,HMBS (1207),Single gene sequencing >=10 amplicons,Highly Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R171,R171.1,Cholestasis,Cholestasis (544),WES or Medium Panel,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R176,R176.1,Gilbert syndrome,UGT1A1,Targeted variant testing,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R331,R331.1,Intestinal failure or congenital diarrhoea,Intestinal failure or congenital diarrhoea (514),WES or Small Panel,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R168,R168.1,Non-acute porphyrias,Non-acute porphyrias (513),Small panel,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R438,R438.1,Paediatric pseudo-obstruction syndrome ,Paediatric pseudo-obstruction syndrome (1217),WES or Medium panel,Highly Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R175,R175.1,Pancreatitis,Pancreatitis (386),Small panel,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R173,R173.1,Polycystic liver disease,Polycystic liver disease interim (653),WES or Small Panel,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R170,R170.1,Variegate porphyria,PPOX (1402),Single gene sequencing >=10 amplicons,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R172,R172.1,Wilson disease,ATP7B (1405),Single gene sequencing >=10 amplicons,Specialised,Gastrohepatology,VII Gastrohepatology,No change
+R90,R90.1,Bleeding and platelet disorders,Bleeding and platelet disorders (545),WES or Medium Panel,Specialised,Haematology,VIII Haematology,No change
+R124,R124.1,Combined factor V and VIII deficiency,Combined factor V and VIII deficiency (517),Small panel,Specialised,Haematology,VIII Haematology,No change
+R123,R123.1,Combined vitamin K-dependent clotting factor deficiency,VKORC1;GGCX (1316),Small panel,Specialised,Haematology,VIII Haematology,No change
+R229,R229.1,Confirmed Fanconi anaemia or Bloom syndrome - variant testing,Confirmed Fanconi anaemia or Bloom syndrome (508),Small panel,Specialised,Haematology,VIII Haematology,No change
+R258,R258.1,Cytopenia - Fanconi breakage testing indicated,Fanconi breakage,DNA repair defect testing,Specialised,Haematology,VIII Haematology,No change
+R258,R258.2,Cytopenia - Fanconi breakage testing indicated,Confirmed Fanconi anaemia or Bloom syndrome (508),Small Panel,Specialised,Haematology,VIII Haematology,Correction size of panel is small not medium & correction of PLCM payment method to align
+R91,R91.1,Cytopenia - NOT Fanconi anaemia,Cytopenia - NOT Fanconi anaemia (519),WES or Medium Panel,Specialised,Haematology,VIII Haematology,No change
+R91,R91.2,Cytopenia - NOT Fanconi anaemia,RPL11;RPL35A;RPS17;RPS19;RPS26;RPL5;DKC1;TERT;TERC,MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R112,R112.1,Factor II deficiency,F2 (1325),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R118,R118.1,Factor IX deficiency,F9 (1326),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R118,R118.2,Factor IX deficiency,F9 (1326),MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R115,R115.1,Factor V deficiency,F5 (1327),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R115,R115.2,Factor V deficiency,F5 (1327),MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R116,R116.1,Factor VII deficiency,F7 (1328),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R116,R116.2,Factor VII deficiency,F7 (1328),MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R117,R117.1,Factor VIII deficiency,F8 (1329),Targeted variant testing,Specialised,Haematology,VIII Haematology,No change
+R117,R117.2,Factor VIII deficiency,F8 (1329),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R117,R117.3,Factor VIII deficiency,F8 (1329),MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R119,R119.1,Factor X deficiency,F10 (1330),Single gene sequencing <10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R119,R119.2,Factor X deficiency,F10 (1330),MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R120,R120.1,Factor XI deficiency,F11 (1331),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R120,R120.2,Factor XI deficiency,F11 (1331),MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R122,R122.1,Factor XIII deficiency,F13A1;F13B (1332),Small panel,Specialised,Haematology,VIII Haematology,No change
+R260,R260.1,Fanconi anaemia or Bloom syndrome - chromosome breakage testing,Fanconi breakage,DNA repair defect testing,Specialised,Haematology,VIII Haematology,No change
+R405,R405.1,Hereditary Erythrocytosis,Hereditary Erythrocytosis (157),Small panel,Specialised,Haematology,VIII Haematology,No change
+R347,R347.1,Inherited predisposition to acute myeloid leukaemia (AML),Inherited predisposition to acute myeloid leukaemia (AML) (525),Small panel,Specialised,Haematology,VIII Haematology,No change
+R366,R366.1,Inherited susceptibility to acute lymphoblastoid leukaemia (ALL),PAX5;ETV6 (1349),Small panel,Specialised,Haematology,VIII Haematology,No change
+R96,R96.1,Iron metabolism disorders - NOT common HFE  variants,Iron metabolism disorders (515),Small panel,Specialised,Haematology,VIII Haematology,No change
+R95,R95.1,Iron overload - hereditary haemochromatosis testing,HFE common variants,Targeted variant testing,Core,Core,VIII Haematology,No change
+R338,R338.1,Monitoring for G(M)CSF escape variants,CSF3R (1358),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R313,R313.1,Neutropaenia consistent with ELANE variants,ELANE (1372),Single gene sequencing <10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R372,R372.1,Newborn screening for sickle cell disease in a transfused baby,HbS variant,Targeted variant testing,Newborn screening programme,Screening,VIII Haematology,No change
+R259,R259.1,Nijmegen breakage syndrome,Nijmegen breakage,DNA repair defect testing,Specialised,Haematology,VIII Haematology,No change
+R259,R259.2,Nijmegen breakage syndrome,NBN (1376),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R92,R92.1,Rare anaemia,HBA1; HBA2; HBG1; HBG2; HBB; RPL11;RPL35A;RPS17;RPS19;RPS26;RPL5;PKLR ,MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R92,R92.2,Rare anaemia,HBA1; HBA2; HBG1; HBG2; HBB,Small panel,Specialised,Haematology,VIII Haematology,No change
+R92,R92.3,Rare anaemia,Rare anaemia (518),WES or Medium Panel,Specialised,Haematology,VIII Haematology,No change
+R93,R93.1,"Sickle cell, thalassaemia and other haemoglobinopathies ","HBA1;HBB, HBA2, HBG1, HBG2, HbS (1397)",MLPA or equivalent,Specialised,Haematology,VIII Haematology,Added pre natal TAT of 14 days
+R93,R93.2,"Sickle cell, thalassaemia and other haemoglobinopathies ","HBA1;HBB, HBA2, HBG1, HBG2, HbS (1397)",Small panel,Specialised,Haematology,VIII Haematology,Added pre natal TAT of 14 days
+R361,R361.1,"Sickle cell, thalassaemia and other haemoglobinopathies trait or carrier testing ","HBA1;HBB, HBA2, HBG1, HBG2, HbS (1342)",Small panel,Specialised,Haematology,VIII Haematology,Added urgent TAT 14 days where required for pregnancy antenatally
+R361,R361.2,"Sickle cell, thalassaemia and other haemoglobinopathies trait or carrier testing ","HBA1;HBB, HBA2, HBG1, HBG2, HbS (1342)",MLPA or equivalent,Specialised,Haematology,VIII Haematology,Added urgent TAT 14 days where required for pregnancy antenatally
+R406,R406.1,Thrombocythaemia,Thrombocythaemia (945),Small panel,Specialised,Haematology,VIII Haematology,No change
+R97,R97.1,Thrombophilia with a likely monogenic cause,Thrombophilia (516),WES or Small Panel,Specialised,Haematology,VIII Haematology,No change
+R121,R121.1,von Willebrand disease,VWF (1404),Single gene sequencing >=10 amplicons,Specialised,Haematology,VIII Haematology,No change
+R121,R121.2,von Willebrand disease,VWF (1404),MLPA or equivalent,Specialised,Haematology,VIII Haematology,No change
+R233,R233.1,Agammaglobulinaemia with absent BTK expression,BTK (1208),Single gene sequencing >=10 amplicons,Specialised,Immunology,X Immunology,No change
+R19,R19.1,Autoimmune lymphoproliferative syndrome with defective apoptosis,FAS (1214),Single gene sequencing >=10 amplicons,Specialised,Immunology,X Immunology,No change
+R155,R155.1,Autoimmune Polyendocrine Syndrome,AIRE (1215),Single gene sequencing >=10 amplicons,Specialised,Immunology,X Immunology,No change
+R413,R413.1,Autoinflammatory Disorders,Autoinflammatory disorders (1075),WES or Medium panel,Highly Specialised,Immunology,X Immunology,No change
+R232,R232.1,Haemophagocytic syndrome with absent perforin expression,PRF1 (1343),Single gene sequencing <10 amplicons,Specialised,Immunology,X Immunology,No change
+R18,R18.1,Haemophagocytic syndrome with absent XIAP expression,XIAP (1344),Single gene sequencing >=10 amplicons,Specialised,Immunology,X Immunology,No change
+R436,R436.1,Hereditary alpha tryptasaemia,TPSAB1,Targeted variant testing,Specialised,Immunology,X Immunology,No change
+R368,R368.1,Hereditary angioedema type III,F12 hotspot,Targeted variant testing,Specialised,Immunology,X Immunology,No change
+R341,R341.1,Hereditary angioedema types I and II,SERPING1 (1345),Single gene sequencing >=10 amplicons,Specialised,Immunology,X Immunology,No change
+R17,R17.1,Lymphoproliferative syndrome with absent SAP expression,SH2D1A (1353),Single gene sequencing <10 amplicons,Specialised,Immunology,X Immunology,No change
+R15,R15.4,Primary immunodeficiency or monogenic inflammatory bowel disease,Primary immunodeficiency (398),WGS,Specialised,Immunology,X Immunology,No change
+R15,R15.5,Primary immunodeficiency or monogenic inflammatory bowel disease,Primary immunodeficiency (398),WES,Specialised,Immunology,X Immunology,No change
+R235,R235.1,SCID with features of gamma chain deficiency,IL2RG (1386),Single gene sequencing <10 amplicons,Highly Specialised,Immunology,X Immunology,No change
+R16,R16.1,Severe combined immunodeficiency with adenosine deaminase deficiency,ADA (1388),Single gene sequencing >=10 amplicons,Highly Specialised,Immunology,X Immunology,No change
+R234,R234.1,Severe combined immunodeficiency with PNP deficiency,PNP (1389),Single gene sequencing <10 amplicons,Highly Specialised,Immunology,X Immunology,No change
+R20,R20.1,Wiskott-Aldrich syndrome,WAS (1406),Single gene sequencing >=10 amplicons,Highly Specialised,Immunology,X Immunology,No change
+R414,R414.1,APC associated Polyposis ,APC (1212),Single gene sequencing >=10 amplicons,Core,Core,XI Inherited cancer,No change
+R422,R422.1,BAP1 associated tumour predisposition syndrome ,BAP1 (1216),Single gene sequencing >=10 amplicons,Specialised,Inherited cancer,XI Inherited cancer,No change
+R364,R364.1,DICER1-related cancer predisposition,DICER1 (1320),Single gene sequencing >=10 amplicons,Specialised,Inherited cancer,XI Inherited cancer,No change
+R456,R456.1,Embryonal tumour of possible germline origin,Embryonal tumour of possible germline origin (1636),WES or Medium Panel,Specialised,Inherited cancer,XI Inherited cancer,"New CI replacing R359, R220 & R358"
+R456,R456.2,Embryonal tumour of possible germline origin,11p15 imprinted growth regulatory region (methylation & CNVs),Methylation testing,Specialised,Inherited cancer,XI Inherited cancer,"New CI replacing R359, R220 & R358 and this is test for Wilms tumour"
+R254,R254.1,Familial melanoma,Familial melanoma (522),Small panel,Specialised,Inherited cancer,XI Inherited cancer,No change
+R365,R365.1,Fumarate hydratase-related tumour syndromes,FH (1335),Single gene sequencing >=10 amplicons,Specialised,Inherited cancer,XI Inherited cancer,No change
+R215,R215.1,Hereditary diffuse gastric cancer ,CDH1;CTNNA1 (1221),Small panel,Specialised,Inherited cancer,XI Inherited cancer,No change
+R208,R208.1,Inherited breast cancer and ovarian cancer,Inherited breast cancer and ovarian cancer (635),Small panel,Core,Core,XI Inherited cancer,No change
+R210,R210.2,Inherited MMR deficiency (Lynch syndrome),Inherited MMR deficiency (Lynch syndrome) (503),Small panel,Core,Core,XI Inherited cancer,No change
+R210,R210.4,Inherited MMR deficiency (Lynch syndrome),MLH1 hypermethylation,Methylation testing,Core,Core,XI Inherited cancer,No change
+R210,R210.6,Inherited MMR deficiency (Lynch syndrome),PMS2,MLPA or equivalent,,Core,XI Inherited cancer,No change
+R207,R207.1,Inherited ovarian cancer (without breast cancer),Inherited ovarian cancer (without breast cancer) (143),Small panel,Core,Core,XI Inherited cancer,No change
+R367,R367.1,Inherited pancreatic cancer,Inherited pancreatic cancer (524),Small panel,Specialised,Inherited cancer,XI Inherited cancer,No change
+R211,R211.1,Inherited polyposis and early onset colorectal cancer - germline testing,Inherited polyposis (504),Small panel,Core,Core,XI Inherited cancer,No change
+R211,R211.3,Inherited polyposis and early onset colorectal cancer - germline testing,PMS2,MLPA or equivalent,,Core,XI Inherited cancer,No change
+R363,R363.1,Inherited predisposition to GIST,Inherited predisposition to GIST (523),Small panel,Specialised,Inherited cancer,XI Inherited cancer,No change
+R430,R430.1,Inherited prostate cancer,Inherited prostate cancer (1223),Small panel,Core,Core,XI Inherited cancer,No change
+R224,R224.1,Inherited renal cancer,Inherited renal cancer (521),Small panel,Specialised,Inherited cancer,XI Inherited cancer,No change
+R216,R216.1,Li Fraumeni Syndrome,Li Fraumeni Syndrome (1222),Small panel ,Specialised,Inherited cancer,XI Inherited cancer,No change
+R214,R214.1,Nevoid Basal Cell Carcinoma Syndrome or Gorlin syndrome,PTCH1;SUFU (1373),Small panel,Specialised,Inherited cancer,XI Inherited cancer,No change
+R444,R444.1,NICE approved PARP inhibitor treatment ,BRCA1 and BRCA2,Small panel,Core,Core,XI Inherited cancer,No change
+R444,R444.2,NICE approved PARP inhibitor treatment ,"Prostate cancer: BRCA1, BRCA2",Small panel ,Core,Core,XI Inherited cancer,No change
+R212,R212.1,Peutz Jeghers Syndrome,STK11 (1377),Single gene sequencing >=10 amplicons,Specialised,Inherited cancer,XI Inherited cancer,No change
+R213,R213.1,PTEN Hamartoma Tumor Syndrome,PTEN (1382),Single gene sequencing >=10 amplicons,Specialised,Inherited cancer,XI Inherited cancer,No change
+R219,R219.1,Retinoblastoma,RB1 (1384),Single gene sequencing >=10 amplicons,Highly Specialised,Inherited cancer,XI Inherited cancer,No change
+R219,R219.2,Retinoblastoma,RB1 (1384),MLPA or equivalent,Highly Specialised,Inherited cancer,XI Inherited cancer,No change
+R457,R457.1,Sarcoma of possible germline origin,Sarcoma or possible germline origin (1637),Small Panel,Specialised,Inherited cancer,XI Inherited cancer,New CI replacing R359
+R404,R404.1,Testing of unaffected individuals for inherited cancer predisposition syndromes,As dictated by clinical indication,Single gene sequencing >=10 amplicons,Core/Specialised,Inherited cancer,XI Inherited cancer,No change
+R404,R404.3,Testing of unaffected individuals for inherited cancer predisposition syndromes,Relevant inherited cancer panel,Small panel,Core/Specialised,Inherited cancer,XI Inherited cancer,No change
+R225,R225.1,Von Hippel Lindau syndrome,VHL (1403),Single gene sequencing >=10 amplicons,Specialised,Inherited cancer,XI Inherited cancer,No change
+R324,R324.1,Familial Chylomicronaemia Syndrome (FCS),Lipoprotein lipase deficiency (527),Small panel,Specialised,Metabolic,XII Lipids,No change
+R134,R134.1,Familial hypercholesterolaemia,Familial hypercholesterolaemia (GMS) (772),Small panel,Core,Core,XII Lipids,No change
+R334,R334.1,Cystinosis,CTNS (1319),Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R449,R449.1,Diagnostic testing for Glutaric acidaemia I,GCDH (1339),Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R450,R450.1,Diagnostic testing for Isovaleric acidaemia,IVD  ,Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R451,R451.1,Diagnostic testing for MCADD - Medium-chain acyl-CoA dehydrogenase deficiency – full ACADM sequencing,ACADM (1355),Single gene sequencing <10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R335,R335.1,Fabry disease,GLA (1323),Single gene sequencing <10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R335,R335.2,Fabry disease,GLA (1323),MLPA or equivalent,Specialised,Metabolic,XIII Metabolic,No change
+R272,R272.1,Gaucher disease,GBA (1336),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R275,R275.1,Glutaric acidaemia I newborn screening follow up,GCDH (1339),Single gene sequencing >=10 amplicons,Newborn screening programme,Screening,XIII Metabolic,No change
+R274,R274.1,Glycogen storage disease,Glycogen storage disease (528),WES or Medium Panel,Specialised,Metabolic,XIII Metabolic,No change
+R273,R273.1,Glycogen storage disease V,PYGM (1340),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R288,R288.1,GM1 Gangliosidosis and Mucopolysaccharidosis Type IVB,GLB1 (1341),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R279,R279.1,Isovaleric acidaemia newborn screening follow up,IVD common pseudodeficiency variant,Targeted variant testing,Newborn screening programme,Screening,XIII Metabolic,No change
+R280,R280.1,Krabbe disease – GALC deficiency,GALC (1351),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R280,R280.2,Krabbe disease – GALC deficiency,GALC (1351),MLPA or equivalent,Highly Specialised,Metabolic,XIII Metabolic,No change
+R281,R281.1,Krabbe disease - Saposin A deficiency,PSAP (1352),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R98,R98.2,Likely inborn error of metabolism,Inborn errors of metabolism (467),WGS,Specialised,Metabolic,XIII Metabolic,No change
+R98,R98.3,Likely inborn error of metabolism,Inborn errors of metabolism (467),WES,Specialised,Metabolic,XIII Metabolic,No change
+R325,R325.1,Lysosomal acid lipase deficiency,LIPA (1354),Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R276,R276.1,Lysosomal storage disorder,Lysosomal storage disorder (529),WES or Medium Panel,Highly Specialised,Metabolic,XIII Metabolic,No change
+R105,R105.1,MCADD - Medium-chain acyl-CoA dehydrogenase deficiency – common variant newborn screening follow up,ACADM common pathogenic variants,Targeted variant testing,Newborn screening programme,Screening,XIII Metabolic,No change
+R403,R403.1,MCADD - Medium-chain acyl-CoA dehydrogenase deficiency – full ACADM sequencing newborn screening follow up,ACADM (1355),Single gene sequencing <10 amplicons,Newborn screening programme,Screening,XIII Metabolic,No change
+R289,R289.1,Mucolipidosis II and III Alpha/Beta,GNPTAB (1359),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R277,R277.1,Mucopolysaccharidosis type IH/S,IDUA (1360),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R278,R278.1,Mucopolysaccharidosis type II,IDS (1361),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R278,R278.2,Mucopolysaccharidosis type II,IDS (1361),Targeted variant testing,Highly Specialised,Metabolic,XIII Metabolic,No change
+R291,R291.1,Mucopolysaccharidosis type IIIA,SGSH (1362),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R292,R292.1,Mucopolysaccharidosis type IIIB,NAGLU (1363),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R287,R287.1,Mucopolysaccharidosis type IVA,GALNS (1364),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R290,R290.1,Mucopolysaccharidosis type VI,ARSB (1365),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R231,R231.2,Neuronal ceroid lipofuscinosis,Neuronal ceroid lipofuscinosis (526),Small panel,Specialised,Metabolic,XIII Metabolic,No change
+R271,R271.1,Neuronal ceroid lipofuscinosis type 2,TPP1 (1371),Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R380,R380.1,Niemann Pick disease type C,NPC1;NPC2 (1374),Small panel,Highly Specialised,Metabolic,XIII Metabolic,No change
+R380,R380.2,Niemann Pick disease type C,NPC1;NPC2 (1374),MLPA or equivalent,Highly Specialised,Metabolic,XIII Metabolic,No change
+R282,R282.1,Niemann-Pick disease type A or B,SMPD1 (1375),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R283,R283.1,Phenylketonuria,PAH (1378),Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R285,R285.1,Sandhoff disease,HEXB (1385),Single gene sequencing >=10 amplicons,Highly Specialised,Metabolic,XIII Metabolic,No change
+R323,R323.1,Sitosterolaemia,ABCG5;ABCG8 (1391),Small panel,Specialised,Metabolic,XIII Metabolic,No change
+R270,R270.1,Smith-Lemli-Opitz syndrome,DHCR7 (1392),Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R270,R270.2,Smith-Lemli-Opitz syndrome,DHCR7 (1392),MLPA or equivalent,Specialised,Metabolic,XIII Metabolic,No change
+R286,R286.1,Tay-Sachs disease,HEXA (1396),Single gene sequencing >=10 amplicons,Specialised,Metabolic,XIII Metabolic,No change
+R42,R42.1,Leber hereditary optic neuropathy,Three common LHON variants,Targeted variant testing,Specialised,Mitochondrial,XIV Mitochondrial,No change
+R42,R42.2,Leber hereditary optic neuropathy,Mitochondrial genome,Other,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R397,R397.1,Maternally inherited cardiomyopathy,m.4300A>G,Targeted variant testing,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R64,R64.1,MELAS or MIDD,MTTL1 3243A>G,Targeted variant testing,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R350,R350.1,MERRF syndrome,Common MERRF mutations,Targeted variant testing,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R396,R396.1,"Mitochondrial Complex V deficiency, TMEM70 type",TMEM70 (1356),Single gene sequencing <10 amplicons,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R353,R353.1,Mitochondrial disorder with complex I deficiency,Mitochondrial disorder with complex I deficiency (534),WES or Medium Panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R354,R354.1,Mitochondrial disorder with complex II deficiency,Mitochondrial disorder with complex II deficiency (535),WES or Small Panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R355,R355.1,Mitochondrial disorder with complex III deficiency,Mitochondrial disorder with complex III deficiency (536),WES or Small Panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R356,R356.1,Mitochondrial disorder with complex IV deficiency,Mitochondrial disorder with complex IV deficiency (537),WES or Medium Panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R357,R357.1,Mitochondrial disorder with complex V deficiency,Mitochondrial disorder with complex V deficiency (538),WES or Small Panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R352,R352.1,Mitochondrial DNA maintenance disorder,Mitochondrial DNA maintenance disorder (533),WES or Medium Panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R317,R317.1,"Mitochondrial liver disease, including transient infantile liver failure",Mitochondrial liver disease (532),Small panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R394,R394.1,Mitochondrial neurogastrointestinal encephalopathy,TYMP (1357),Single gene sequencing >=10 amplicons,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R351,R351.1,NARP syndrome or maternally inherited Leigh syndrome,MT-ATP6 (1368),Single gene sequencing <10 amplicons,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R351,R351.2,NARP syndrome or maternally inherited Leigh syndrome,m.8993T>C/G,Targeted variant testing,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R315,R315.1,POLG-related disorder,Common POLG mutations,Targeted variant testing,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R315,R315.2,POLG-related disorder,POLG (1379),Single gene sequencing >=10 amplicons,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R301,R301.1,Possible mitochondrial disorder - mitochondrial DNA depletion testing,Mitochondrial genome,Other,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R299,R299.1,Possible mitochondrial disorder - mitochondrial DNA rearrangement testing,Mitochondrial genome,Other,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R299,R299.2,Possible mitochondrial disorder - mitochondrial DNA rearrangement testing,Heteroplasmy assessment - mitochondrial genome,Other,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R299,R299.3,Possible mitochondrial disorder - mitochondrial DNA rearrangement testing,Breakpoint mapping - mitochondrial genome,Other,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R63,R63.1,Possible mitochondrial disorder - nuclear genes,Possible mitochondrial disorder - nuclear genes (539),WES or Large Panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R300,R300.1,Possible mitochondrial disorder - whole mitochondrial genome sequencing,Mitochondrial genome,Other,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R316,R316.1,Pyruvate dehydrogenase (PDH) deficiency,Pyruvate dehydrogenase (PDH) deficiency (531),WES or Medium panel,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R395,R395.1,Thiamine metabolism dysfunction syndrome 2,SLC19A3 (1399),Single gene sequencing <10 amplicons,Highly Specialised,Mitochondrial,XIV Mitochondrial,No change
+R191,R191.1,Alpha-1-antitrypsin deficiency,SERPINA1 common mutations,Targeted variant testing,Specialised,Respiratory,XIX Respiratory,No change
+R330,R330.1,Alveolar capillary dysplasia with misalignment of pulmonary veins,FOXF1 (1211),Single gene sequencing >=10 amplicons,Specialised,Respiratory,XIX Respiratory,No change
+R333,R333.1,Central congenital hypoventilation,PHOX2B STR (1314),STR testing,Specialised,Respiratory,XIX Respiratory,No change
+R333,R333.2,Central congenital hypoventilation,PHOX2B (1314),Single gene sequencing >=10 amplicons,Specialised,Respiratory,XIX Respiratory,No change
+R462,R462.1,Childhood interstitial lung disease,Childhood interstitial lung disease (1638),Medium Panel,Specialised,Respiratory,XIX Respiratory,New CI replacing R192
+R185,R185.1,Cystic fibrosis carrier testing,CFTR,Targeted variant testing,Core,Core,XIX Respiratory,No change
+R184,R184.1,Cystic fibrosis diagnostic test,CFTR (1318),Targeted variant testing,Core,Core,XIX Respiratory,No change
+R184,R184.2,Cystic fibrosis diagnostic test,CFTR (1318),Single gene sequencing >=10 amplicons,Core,Core,XIX Respiratory,No change
+R184,R184.3,Cystic fibrosis diagnostic test,CFTR (1318),MLPA or equivalent,Core,Core,XIX Respiratory,No change
+R253,R253.1,Cystic fibrosis newborn screening follow-up,CFTR 4 commonest mutations,Targeted variant testing,Newborn screening programme,Screening,XIX Respiratory,No change
+R186,R186.1,Hereditary haemorrhagic telangiectasia,Hereditary haemorrhagic telangiectasia (123),Small panel,Specialised,Respiratory,XIX Respiratory,No change
+R139,R139.1,Laterality disorders and isomerism,Laterality disorders and isomerism (549),WES or Medium Panel,Specialised,Respiratory,XIX Respiratory,No change
+R190,R190.1,Pneumothorax - familial,Pneumothorax - familial (105),Small panel,Specialised,Respiratory,XIX Respiratory,No change
+R426,R426.1,Pulmonary alveolar microlithiasis,SLC34A2 (1383),Single gene sequencing >=10 amplicons ,Specialised,Respiratory,XIX Respiratory,No change
+R188,R188.1,Pulmonary arterial hypertension,Pulmonary arterial hypertension (193),Small panel,Specialised,Respiratory,XIX Respiratory,No change
+R421,R421.1,"Pulmonary Fibrosis, Familial ","Pulmonary Fibrosis, Familial (1174)",Medium panel,Specialised,Respiratory,XIX Respiratory,No change
+R189,R189.1,Respiratory ciliopathies including non-CF bronchiectasis,Respiratory ciliopathies including non-CF bronchiectasis (550),WES or Medium Panel,Specialised,Respiratory,XIX Respiratory,No change
+R265,R265.1,Chromosomal mosaicism - karyotype,Genomewide,Karyotype,Core,Core,XV Mosaic & structural chromosomal disorders,No change
+R343,R343.1,Chromosomal mosaicism - microarray,Genomewide,Microarray,Core,Core,XV Mosaic & structural chromosomal disorders,No change
+R463,R463.1,Cytogenetic characterisation of a genomic abnormality – Karyotype or Targeted Chromosome Analysis,Full Karyotype or Targeted chromosome as required,Karyotype,Core,Core,XV Mosaic & structural chromosomal disorders,New CI replacing R297 along with other new CIs
+R465,R465.1,"Familial cytogenetic rearrangement - Karyotype or Targeted Chromosome Analysis
+",Full Karyotype or Targeted chromosome as required,Karyotype,Core,Core,XV Mosaic & structural chromosomal disorders,New CI replacing R297 along with other new CIs
+R467,R467.1,Gamete donors - karyotype,Full Karyotype or Targeted chromosome as required,Karyotype,Core,Core,XV Mosaic & structural chromosomal disorders,New CI replacing R297 along with other new CIs
+R468,R468.1,Possible sex chromosome aneuploidy or structural rearrangement – Targeted Chromosome Analysis,Full Karyotype or Targeted chromosome as required,Karyotype,Core,Core,XV Mosaic & structural chromosomal disorders,New CI replacing R297 along with other new CIs
+R298,R298.1,Possible structural or mosaic chromosomal abnormality - FISH,As determined by indication,FISH,Core,Core,XV Mosaic & structural chromosomal disorders,No change
+R464,R464.1,Recurrent miscarriage where products of conception are not available for testing - parental karyotype,Full Karyotype or Targeted chromosome as required,Karyotype,Core,Core,XV Mosaic & structural chromosomal disorders,New CI replacing R297 along with other new CIs
+R466,R466.1,Unexplained infertility - karyotype,Full Karyotype or Targeted chromosome as required,Karyotype,Core,Core,XV Mosaic & structural chromosomal disorders,New CI replacing R297 along with other new CIs
+R411,R411.1,Y chromosome microdeletion ,Y chromosome AZF regions,Targeted variant testing or equivalent,Core,Core,XV Mosaic & structural chromosomal disorders,Change in routing with NTGLH now offering this test
+R24,R24.1,Achondroplasia,FGFR3 c.1138,Targeted variant testing,Core,Core,XVI Musculoskeletal,No change
+R340,R340.1,Amelogenesis imperfecta,Amelogenesis imperfecta (269),WES or Medium panel,Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R23,R23.1,Apert syndrome,FGFR2 c.755 and c.758,Targeted variant testing,Highly Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R99,R99.1,Common craniosynostosis syndromes,Common craniosynostosis syndromes (507),Small panel,Highly Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R99,R99.2,Common craniosynostosis syndromes,Common craniosynostosis syndromes (507),Exon level CNV detection by MLPA or equivalent,Highly Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R101,R101.1,Ehlers Danlos syndrome with a likely monogenic cause,Ehlers Danlos syndromes (53),WES or Medium Panel,Highly Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R382,R382.1,Hypochondroplasia,FGFR3 c.1620,Targeted variant testing,Core,Core,XVI Musculoskeletal,No change
+R390,R390.1,Multiple exostoses,EXT1;EXT2 (1367),Small panel,Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R390,R390.2,Multiple exostoses,EXT1;EXT2 (1367),MLPA or equivalent,Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R102,R102.1,Osteogenesis imperfecta,Osteogenesis imperfecta (196),WES or Medium Panel,Highly Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R100,R100.3,Rare syndromic craniosynostosis or isolated multisuture synostosis,Craniosynostosis (168),WGS,Highly Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R52,R52.1,Short stature - SHOX deficiency,SHOX (1390),MLPA or equivalent,Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R52,R52.2,Short stature - SHOX deficiency,SHOX (1390),Single gene sequencing <10 amplicons,Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R104,R104.3,Skeletal dysplasia,Skeletal dysplasia (309),WGS,Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R104,R104.4,Skeletal dysplasia,Osteopetrosis (943),Small panel,Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R416,R416.1,Syndromic and non syndromic craniosynostosis involving midline sutures,SMAD6 (1395),Single gene sequencing <10 amplicons,Highly Specialised,Musculoskeletal,XVI Musculoskeletal,No change
+R25,R25.1,Thanatophoric dysplasia,FGFR3 (1398),Single gene sequencing >=10 amplicons,Core,Core,XVI Musculoskeletal,No change
+R419,R419.1,Acute Rhabdomyolysis ,Acute Rhabdomyolysis (1141),Medium panel,Highly Specialised,Neurology,XVII Neurology,No change
+R56,R56.3,"Adult onset dystonia, chorea or related movement disorder","Adult-onset neurological disorders (1669)
+New panel to be created that includes genes across 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)",WGS,Specialised,Neurology,XVII Neurology,"Gene targets to be super panel of genes from 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)"
+R60,R60.3,Adult onset hereditary spastic paraplegia,"Adult-onset neurological disorders (1669)
+New panel to be created that includes genes across 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)",WGS,Specialised,Neurology,XVII Neurology,"Gene targets to be super panel of genes from 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)"
+R62,R62.2,Adult onset leukodystrophy,White matter disorders - adult onset (579),WGS,Specialised,Neurology,XVII Neurology,No change
+R460,R460.1,Amyotrophic lateral sclerosis,"Adult-onset neurological disorders (1669)
+New panel to be created that includes genes across 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)",WGS,Specialised,Neurology,XVII Neurology,New CI replacing R58 and super panel of gene targets
+R83,R83.3,Arthrogryposis,Arthrogryposis (258),WGS,Specialised,Neurology,XVII Neurology,No change
+R294,R294.1,Ataxia telangiectasia - DNA repair testing,Genomewide,DNA repair defect testing,Specialised,Neurology,XVII Neurology,No change
+R295,R295.1,Ataxia telangiectasia - variant testing,ATM (1213),Single gene sequencing >=10 amplicons,Specialised,Neurology,XVII Neurology,No change
+R337,R337.1,CADASIL,NOTCH3 (1311),Single gene sequencing >=10 amplicons,Specialised,Neurology,XVII Neurology,No change
+R84,R84.4,Cerebellar anomalies,Hereditary ataxia and cerebellar anomalies - childhood onset (488),WGS,Specialised,Neurology,XVII Neurology,No change
+R461,R461.1,Cerebral amyloid angiopathy,"Adult-onset neurological disorders (1669)
+New panel to be created that includes genes across 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)",WGS,Specialised,Neurology,XVII Neurology,New CI replacing R58 and super panel of gene targets
+R87,R87.3,Cerebral malformation,Cerebral malformations (491),WGS,Specialised,Neurology,XVII Neurology,No change
+R336,R336.1,Cerebral vascular malformations,Cerebral vascular malformations (147),WES or Medium Panel,Specialised,Neurology,XVII Neurology,No change
+R57,R57.5,"Childhood onset dystonia, chorea or related movement disorder",Childhood onset dystonia or chorea or related movement disorder (847),WGS,Specialised,Neurology,XVII Neurology,No change
+R61,R61.4,Childhood onset hereditary spastic paraplegia,Hereditary spastic paraplegia - Childhood onset (568),WGS,Specialised,Neurology,XVII Neurology,No change
+R109,R109.3,Childhood onset leukodystrophy,White matter disorders - childhood onset (496),WGS,Specialised,Neurology,XVII Neurology,No change
+R79,R79.1,Congenital muscular dystrophy,Congenital muscular dystrophy (207),WES or Medium Panel,Highly Specialised,Neurology,XVII Neurology,No change
+R80,R80.1,Congenital myaesthenic syndrome,Congenital myaesthenic syndrome (232),WES or Medium Panel,Highly Specialised,Neurology,XVII Neurology,No change 
+R81,R81.1,Congenital myopathy,Congenital myopathy (225),WES or Medium Panel,Highly Specialised,Neurology,XVII Neurology,No change
+R73,R73.1,Duchenne or Becker muscular dystrophy,DMD (1321),Single gene sequencing >=10 amplicons,Specialised,Neurology,XVII Neurology,No change
+R73,R73.2,Duchenne or Becker muscular dystrophy,DMD (1321),MLPA or equivalent,Specialised,Neurology,XVII Neurology,No change
+R74,R74.1,Facioscapulohumeral muscular dystrophy,DUX4,Other,Specialised,Neurology,XVII Neurology,No change
+R345,R345.1,Facioscapulohumeral muscular dystrophy - extended testing,DUX4,Methylation testing,Specialised,Neurology,XVII Neurology,No change
+R345,R345.2,Facioscapulohumeral muscular dystrophy - extended testing,SMCHD1 (1324),Single gene sequencing >=10 amplicons,Specialised,Neurology,XVII Neurology,No change
+R345,R345.3,Facioscapulohumeral muscular dystrophy - extended testing,4q,Other,Specialised,Neurology,XVII Neurology,No change
+R221,R221.1,Familial tumours of the nervous system,NF2; SMARCB1; LZTR1; SMARCE1; SUFU; DGCR8 (1334),Small panel,Highly Specialised,Neurology,XVII Neurology,No change
+R221,R221.2,Familial tumours of the nervous system,NF2; SMARCB1; LZTR1; SMARCE1; SUFU; DGCR8 (1334),MLPA or equivalent,Highly Specialised,Neurology,XVII Neurology,No change
+R54,R54.4,Hereditary ataxia with onset in adulthood,RFC1 STR,STR testing,Specialised,Neurology,XVII Neurology,No change
+R54,R54.3,Hereditary ataxia with onset in adulthood,"Adult-onset neurological disorders (1669)
+New panel to be created that includes genes across 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)",WGS,Specialised,Neurology,XVII Neurology,"Gene targets to be super panel of genes from 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)"
+R55,R55.4,Hereditary ataxia with onset in childhood,Hereditary ataxia and cerebellar anomalies - childhood onset (488),WGS,Specialised,Neurology,XVII Neurology,No change
+R77,R77.1,Hereditary neuropathy - PMP22 copy number,PMP22,MLPA or equivalent,Core,Core,XVII Neurology,No change
+R78,R78.4,Hereditary neuropathy or pain disorder ,Hereditary neuropathy NOT PMP22 copy number (846),WGS,Specialised,Neurology,XVII Neurology,No change
+R78,R78.5,Hereditary neuropathy or pain disorder ,RFC1 STR,STR testing,Specialised,Neurology,XVII Neurology,No change
+R85,R85.2,Holoprosencephaly - NOT chromosomal,Holoprosencephaly (78),WGS,Specialised,Neurology,XVII Neurology,Amended CI name
+R68,R68.1,Huntington disease,HTT STR,STR testing,Core,Core,XVII Neurology,No change
+R86,R86.3,Hydrocephalus,Hydrocephalus (179),WGS,Specialised,Neurology,XVII Neurology,No change
+R82,R82.1,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies","Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies (185)",WES or Medium Panel,Highly Specialised,Neurology,XVII Neurology,No change
+R383,R383.1,Linkage testing for Huntington disease,HTT,Other,Specialised,Neurology,XVII Neurology,No change
+R371,R371.1,Malignant hyperthermia,Malignant hyperthermia (1076),small panel,Specialised,Neurology,XVII Neurology,No change
+R72,R72.1,Myotonic dystrophy type 1,DMPK STR,STR testing,Core,Core,XVII Neurology,No change
+R410,R410.1,Myotonic dystrophy type 2 (DM2),CNBP (ZNF9) STR,STR testing,Specialised,Neurology,XVII Neurology,No change
+R471,R471.1,"Neurodegenerative Disorders, adult onset – Prenatal Exclusion Testing",C9orf72 haplotype,Linkage analysis,Specialised,Neurology,XVII Neurology,New CI
+R471,R471.2,"Neurodegenerative Disorders, adult onset – Prenatal Exclusion Testing",SOD1 haplotype,Linkage analysis,Specialised,Neurology,XVII Neurology,New CI
+R471,R471.3,"Neurodegenerative Disorders, adult onset – Prenatal Exclusion Testing",MAPT haplotype,Linkage analysis,Specialised,Neurology,XVII Neurology,New CI
+R471,R471.4,"Neurodegenerative Disorders, adult onset – Prenatal Exclusion Testing",PSEN1 haplotype,Linkage analysis,Specialised,Neurology,XVII Neurology,New CI
+R222,R222.1,Neurofibromatosis type 1,NF1; SPRED1 (1370),Small panel,Specialised,Neurology,XVII Neurology,No change
+R222,R222.2,Neurofibromatosis type 1,NF1; SPRED1 (1370),MLPA or equivalent,Specialised,Neurology,XVII Neurology,No change
+R75,R75.1,Oculopharyngeal muscular dystrophy,PABPN1 STR,STR testing,Specialised,Neurology,XVII Neurology,No change
+R381,R381.2,Other rare neuromuscular disorders,Neuromuscular disorders (465),WGS,Specialised,Neurology,XVII Neurology,No change
+R66,R66.1,Paroxysmal central nervous system disorders,Paroxysmal central nervous system disorders (541),WES or Medium Panel,Specialised,Neurology,XVII Neurology,No change
+R376,R376.1,Segmental or atypical neurofibromatosis type 1 testing,NF1 (1387),Single gene sequencing >=10 amplicons,Highly Specialised,Neurology,XVII Neurology,No change
+R376,R376.2,Segmental or atypical neurofibromatosis type 1 testing,NF1 (1387),MLPA or equivalent,Highly Specialised,Neurology,XVII Neurology,No change
+R88,R88.3,Severe microcephaly,Severe microcephaly (162),WGS,Specialised,Neurology,XVII Neurology,No change
+R76,R76.1,Skeletal muscle channelopathy,Skeletal muscle channelopathy  (542),Small panel,Highly Specialised,Neurology,XVII Neurology,No change
+R252,R252.1,SMA carrier testing at population risk for partners of known carriers,SMN1,MLPA or equivalent,Core,Core,XVII Neurology,No change
+R70,R70.1,Spinal muscular atrophy type 1 diagnostic test,SMN1; SMN2,MLPA or equivalent,Core,Core,XVII Neurology,No change
+R71,R71.1,Spinal muscular atrophy type 1 rare variant testing,SMN1 (1393),Single gene sequencing >=10 amplicons,Specialised,Neurology,XVII Neurology,No change
+R228,R228.1,Tuberous sclerosis,TSC1;TSC2 (1400),Small panel,Specialised,Neurology,XVII Neurology,No change
+R228,R228.2,Tuberous sclerosis,TSC1;TSC2 (1400),MLPA or equivalent,Specialised,Neurology,XVII Neurology,No change
+R228,R228.3,Tuberous sclerosis,TSC1;TSC2 (1400),Small panel - deep sequencing,Specialised,Neurology,XVII Neurology,No change
+R459,R459.1,Young onset or complex Parkinson disease,"Adult-onset neurological disorders (1669)
+New panel to be created that includes genes across 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)",WGS,Specialised,Neurology,XVII Neurology,New CI replacing R58 and super panel of gene targets
+R458,R458.1,Young onset or familial dementia,"Adult-onset neurological disorders (1669)
+New panel to be created that includes genes across 7 neurology CIs (R54, R56, R60, R458, R459, R460, R461)",WGS,Specialised,Neurology,XVII Neurology,New CI replacing R58 and super panel of gene targets
+R446,R446.1,APOL1 kidney donor testing,APOL1,Targeted variant testing,Specialised,Renal,XVIII Renal,No change
+R201,R201.1,Atypical haemolytic uraemic syndrome,Atypical haemolytic uraemic syndrome (139),Small panel,Highly Specialised,Renal,XVIII Renal,No change
+R196,R196.1,CFHR5 nephropathy,CFHR5,MLPA or equivalent,Specialised,Renal,XVIII Renal,No change
+R199,R199.1,Congenital anomalies of the kidney and urinary tract - familial,Genomewide,Microarray,Core,Core,XVIII Renal,No change
+R193,R193.4,Cystic renal disease,Cystic renal disease (487),WGS,Specialised,Renal,XVIII Renal,No change
+R194,R194.1,Haematuria,Haematuria (99),Small panel,Specialised,Renal,XVIII Renal,No change
+R204,R204.1,Hereditary Systemic Amyloidosis ,Amyloidosis (502),Small panel,Highly Specialised,Renal,XVIII Renal,No change
+R197,R197.1,Membranoproliferative glomerulonephritis including C3 glomerulopathy,Membranoproliferative glomerulonephritis (83),Small panel,Highly Specialised,Renal,XVIII Renal,No change
+R197,R197.2,Membranoproliferative glomerulonephritis including C3 glomerulopathy,Membranoproliferative glomerulonephritis (83),MLPA or equivalent,Highly Specialised,Renal,XVIII Renal,No change
+R256,R256.1,Nephrocalcinosis or nephrolithiasis,Nephrocalcinosis or nephrolithiasis (149),WES or Medium Panel,Specialised,Renal,XVIII Renal,No change
+R195,R195.3,Proteinuric renal disease,Proteinuric renal disease (106),WGS,Specialised,Renal,XVIII Renal,No change
+R198,R198.1,Renal tubulopathies,Renal tubulopathies (292),WES or Medium Panel,Specialised,Renal,XVIII Renal,No change
+R202,R202.1,Tubulointerstitial kidney disease,Tubulointerstitial kidney disease (548),Small panel,Specialised,Renal,XVIII Renal,No change
+R257,R257.2,Unexplained young onset end-stage renal disease,Unexplained young onset end-stage renal disease (678),WGS,Specialised,Renal,XVIII Renal,No change
+R257,R257.3,Unexplained young onset end-stage renal disease,Unexplained young onset end-stage renal disease (678),WES,Specialised,Renal,XVIII Renal,No change
+R167,R167.1,Autosomal recessive primary hypertrophic osteoarthropathy,Autosomal recessive primary hypertrophic osteoarthropathy (557),Small panel,Specialised,Dermatology,XX Dermatology,No change
+R237,R237.1,Cutaneous photosensitivity with a likely genetic cause,Cutaneous photosensitivity with a likely genetic cause (560),Small panel,Specialised,Dermatology,XX Dermatology,No change
+R163,R163.1,Ectodermal dysplasia,Ectodermal dysplasia (553),WES or Medium panel,Specialised,Dermatology,XX Dermatology,No change
+R255,R255.1,Epidermodysplasia verruciformis,Epidermodysplasia verruciformis (562),Small panel,Specialised,Dermatology,XX Dermatology,No change
+R164,R164.1,Epidermolysis bullosa and congenital skin fragility,Epidermolysis bullosa and congenital skin fragility (554),WES or Medium Panel,Highly Specialised,Dermatology,XX Dermatology,No change
+R165,R165.1,Ichthyosis and erythrokeratoderma,Ichthyosis and erythrokeratoderma (555),WES or Medium panel,Specialised,Dermatology,XX Dermatology,No change
+R239,R239.2,Incontinentia pigmenti,IKBKG common deletion,Targeted variant testing,Specialised,Dermatology,XX Dermatology,No change
+R239,R239.1,Incontinentia pigmenti ,IKBKG (1347),Single gene sequencing >=10 amplicons,Specialised,Dermatology,XX Dermatology,No change
+R327,R327.1,Mosaic skin disorders - deep sequencing,Mosaic skin disorders - deep sequencing (564),Medium panel,Specialised,Dermatology,XX Dermatology,No change
+R230,R230.1,Multiple monogenic benign skin tumours,Multiple monogenic benign skin tumours (558),Small panel,Specialised,Dermatology,XX Dermatology,No change
+R166,R166.1,Palmoplantar keratodermas,Palmoplantar keratodermas (556),WES or Medium panel,Specialised,Dermatology,XX Dermatology,No change
+R236,R236.1,Pigmentary skin disorders,Pigmentary skin disorders (559),WES or Large panel,Specialised,Dermatology,XX Dermatology,No change
+R236,R236.2,Pigmentary skin disorders,SPRED1,MLPA or equivalent,Specialised,Dermatology,XX Dermatology,No change
+R332,R332.1,Rare genetic inflammatory skin disorders,Rare genetic inflammatory skin disorders (565),WES or Medium panel,Specialised,Dermatology,XX Dermatology,No change
+R110,R110.1,Segmental overgrowth disorders - Deep sequencing,Segmental overgrowth disorders (98),Small panel,Specialised,Dermatology,XX Dermatology,No change
+R424,R424.1,Subcutaneous panniculitis T-cell lymphoma (SPTCL),HAVCR2 (1394),Single gene sequencing <10 amplicons,Specialised,Dermatology,XX Dermatology,No change
+R326,R326.1,Vascular skin disorders,Vascular skin disorders (563),WES or Medium panel,Specialised,Dermatology,XX Dermatology,No change
+R227,R227.1,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome","Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome (77)",Small panel,Highly Specialised,Dermatology,XX Dermatology,No change
+R227,R227.2,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",Genomewide,DNA repair defect testing,Highly Specialised,Dermatology,XX Dermatology,No change
+R89,R89.3,Ultra-rare and atypical monogenic disorders,Relevant panel(s) in PanelApp,WGS,Core,Core,XXI Ultra rare and atypical monogenic disorders,No change
+R246,R246.1,Carrier testing at population risk for partners of known carriers of nationally agreed autosomal recessive disorders,Relevant single gene,Single gene sequencing >=10 amplicons,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R244,R244.1,Carrier testing for known familial variant(s),Specific Target,Targeted variant testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R263,R263.1,Confirmation of uniparental disomy,As relevant to clinical setting,UPD testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R443,R443.1,Confirmation test,Specific Target,Targeted variant testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R240,R240.1,Diagnostic testing for known variant(s),Specific Target,Targeted variant testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R346,R346.1,DNA to be stored,No target identified at this stage,Other,Core,Core,XXII Multi purpose tests,No change
+R375,R375.1,Family follow-up testing to aid variant interpretation,Specific Target,Targeted variant testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R431,R431.1,Genome-wide DNA Methylation Profiling to Aid Variant Interpretation,Genomewide,Methylation testing,Specialised,Multi specialty,XXII Multi purpose tests,No change
+R264,R264.1,Identity testing,Other,Identity testing,Core,Core,XXII Multi purpose tests,No change
+R320,R320.1,Invasive prenatal diagnosis requiring fetal sexing,Other,Common aneuploidy testing,Core,Core,XXII Multi purpose tests,No change
+R409,R409.1,Linkage testing for other recognisable Mendelian disorders,Relevant gene(s) or loci,Linkage analysis,Core/Specialised,Core/Specialised,XXII Multi purpose tests,Amended CI name
+R321,R321.1,Maternal cell contamination testing,Genomewide,Identity testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R374,R374.1,Other sample to be stored,No target identified at this stage,Other,Core,Core,XXII Multi purpose tests,No change
+R428,R428.1,Patient receiving solid organ transplantation (only in cases where passenger lymphocyte syndrome is suspected),Relevant gene(s) or loci,STR testing,Core,Core,XXII Multi purpose tests,No change
+R428,R428.2,Patient receiving solid organ transplantation (only in cases where passenger lymphocyte syndrome is suspected),Sex chromosomes,FISH,Core,Core,XXII Multi purpose tests,No change
+R242,R242.1,Predictive testing for known familial variant(s),Specific Target,Targeted variant testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R448,R448.1,Prenatal testing,Specific Target,Targeted variant testing,Core,Core,XXII Multi purpose tests,No change
+R387,R387.1,Reanalysis of existing data,As per updated indication,Other,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R296,R296.1,RNA analysis of variants,As dictated by variant under investigation,Other,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R373,R373.1,RNA to be stored,No target identified at this stage,Other,Core,Core,XXII Multi purpose tests,No change
+R322,R322.1,Skin fibroblasts to be cultured and stored,No target identified at this stage,Other,Core,Core,XXII Multi purpose tests,No change
+R447,R447.1,Validation of WGS Diagnostic discovery,Specific Target,Targeted variant testing,Core,Core,XXII Multi purpose tests,Amended CI name
+R370,R370.1,Validation of unaccredited findings,Specific Target,Targeted variant testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,Amended CI name
+R442,R442.1,Variant re-interpretation,Specific Target,Targeted variant testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
+R111,R111.1,X-inactivation testing,Other,X-inactivation testing,Core/Specialised,Core/Specialised,XXII Multi purpose tests,No change
