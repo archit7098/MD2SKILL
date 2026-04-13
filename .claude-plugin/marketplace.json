@@ -1,0 +1,41 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "md2skill",
+  "description": "Clinical decision-support skills for healthcare professionals. Each plugin converts published medical guidelines into structured AI prompts — specialty-organised, evidence-sourced, and ready to use in Claude Code.",
+  "owner": {
+    "name": "Om Lakhani / Mellitus Health Tech",
+    "email": "dromlakhani@mellitushealthtech.com"
+  },
+  "plugins": [
+    {
+      "name": "pediatric-obesity-toolkit",
+      "description": "6 clinical decision-support skills for managing obesity in children aged 0–18. Covers intervention selection, pharmacotherapy (GLP-1RA, metformin, orlistat), bariatric surgery eligibility, non-stigmatising consultation (5As + 4Ms), atypical etiology screening, and monogenic/syndromic obesity diagnosis. Based on CMAJ 2025 Pediatric Obesity Guideline.",
+      "category": "productivity",
+      "author": {
+        "name": "Om Lakhani / Mellitus Health Tech",
+        "email": "dromlakhani@mellitushealthtech.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/dromlakhani/pediatric-obesity-toolkit.git",
+        "sha": "50cf58ae4955ae67290968730b3f9b8dc61b7983"
+      },
+      "homepage": "https://github.com/dromlakhani/pediatric-obesity-toolkit"
+    },
+    {
+      "name": "nhs-genomic-test-finder",
+      "description": "Look up NHS England genomic tests for rare and inherited diseases. Covers 457 clinical indications from the National Genomic Test Directory v9.0 (April 2026). Returns R-codes, target gene panels, test methods, and commissioning categories (Core / Specialised / Highly Specialised).",
+      "category": "productivity",
+      "author": {
+        "name": "Om Lakhani / Mellitus Health Tech",
+        "email": "dromlakhani@mellitushealthtech.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/dromlakhani/nhs-genomic-test-finder.git",
+        "sha": "ec2842415fe847b866cc240d9857ab35400b4748"
+      },
+      "homepage": "https://github.com/dromlakhani/nhs-genomic-test-finder"
+    }
+  ]
+}
