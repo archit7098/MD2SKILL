@@ -95,6 +95,15 @@ Each skill has two files:
 
 ---
 
+**Diabetes Technology** — Medtronic MiniMed 780G / CareLink
+
+| Skill | What it does |
+|---|---|
+| [CareLink Interpreter](skills/endocrinology/diabetes-technology/carelink-interpreter/) | Systematic 6-step clinical interpretation of CareLink/780G Daily Review downloads — TIR, insulin delivery, patterns, hypo/hyper root causes, action plan |
+| [780G Pump Adjustment Guide](skills/endocrinology/diabetes-technology/780g-pump-adjustment/) | Guide ICR/ISF/basal and SmartGuard setting adjustments based on CareLink data using Medtronic's 3-step follow-up workflow |
+
+---
+
 ### 🫃 Gastroenterology
 
 **Pre-Procedure Management** — AGA 2024
